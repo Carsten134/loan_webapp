@@ -7,7 +7,7 @@
   const income = ref(20000)
   const emplExp = ref(0)
   const loanAmount = ref(10000)
-  const loanIntRate = ref(0.03)
+  const loanIntRate = ref(3)
   const education = ref("High School")
   const homeOwn = ref("Rent")
   const loanIntent = ref("personal")
